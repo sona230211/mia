@@ -1,0 +1,12 @@
+header{
+    border:1px solid purple;
+    color:red;
+    text-align:center;
+}
+img{
+   width: 80vw;
+   height: 80vh;
+}
+h1{
+    font-weight: 400;
+}
